@@ -1,3 +1,3 @@
-# CUSTOM Frontity theme
+# frontity-schools
 
-Custom Frontity theme, made from AWSM F1 starter theme.
+Custom Frontity (React for WP) theme, made from AWSM F1 starter theme
