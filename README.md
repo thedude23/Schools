@@ -1,3 +1,3 @@
 # frontity-schools
 
-Frontity (React for WP) theme, made from AWSM F1 starter theme
+Frontity (React for WordPress) theme, made from AWSM F1 starter theme.
